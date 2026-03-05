@@ -5,34 +5,39 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+
+O agente financeiro ajuda o cliente a organizar suas finanças pessoais, oferecendo uma visão clara dos gastos.
+Ele identifica compras feitas em um mesmo local, mostrando as datas e valores correspondentes.
+Assim, o cliente percebe padrões de consumo e evita compras desnecessárias ou repetidas, ganhando mais controle sobre o orçamento.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente financeiro analisa automaticamente o histórico de transações do cliente para identificar padrões de consumo.
+Quando o cliente adere ao open banking, o agente amplia a análise para incluir dados de outros bancos onde o cliente possui conta.
+Com isso, ele consegue detectar compras repetidas em um mesmo estabelecimento e notificar o cliente, ajudando a evitar gastos desnecessários e promovendo maior controle financeiro.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
-
----
+O agente financeiro é voltado para pessoas que desejam organizar sua vida financeira e tomar decisões de consumo mais conscientes.
+Ele atende clientes que buscam maior controle sobre seus gastos, evitando compras repetidas ou desnecessárias e promovendo escolhas mais inteligentes no dia a dia.
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+Francisco, Frank
+Ele se apresenta como Francisco mas diz que pode chamar de Frank
 
 ### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+
+Educativo e acessível, com linguagem leve e opções para o cliente tirar dúvidas.
 
 ### Tom de Comunicação
-> Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+
+Acessível, com linguagem clara e próxima do cliente.
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
