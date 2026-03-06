@@ -73,16 +73,17 @@ flowchart TD
 
 ---
 
-## Segurança e Anti-Alucinação
+### 🔒 Segurança e Anti-Alucinação  
+**Estratégias Adotadas:**  
+- Responde apenas com base nos dados fornecidos pelo app do banco e via open banking.  
+- Inclui a fonte da informação nas respostas.  
+- Quando não sabe, admite e redireciona para alternativas.  
+- Não faz recomendações de investimento sem perfil do cliente.  
 
-### Estratégias Adotadas
+**Limitações Declaradas:**  
+- Não toma decisões sozinho.  
+- Não finaliza nenhuma ação sem a aprovação do cliente.  
 
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
 
-### Limitações Declaradas
-> O que o agente NÃO faz?
 
 [Liste aqui as limitações explícitas do agente]
