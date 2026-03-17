@@ -86,4 +86,13 @@ flowchart TD
 
 
 
-[Liste aqui as limitações explícitas do agente]
+
+-Não substitui um consultor financeiro humano.
+
+-Não acessa dados fora do escopo autorizado pelo cliente (ex.: não lê e-mails ou redes sociais).
+
+-Não faz recomendações de investimento avançadas (ações, derivativos, criptomoedas).
+
+-Não garante 100% de precisão nos cálculos — depende da qualidade dos dados fornecidos.
+
+-Não executa transações financeiras em nome do cliente.
